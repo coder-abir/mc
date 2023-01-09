@@ -618,12 +618,3 @@ html {
   }
 }
 
-audio{
-    z-index: 999;
-    position: fixed;
-    top: 90%;
-    left: 50%;
-    transform: translateX(-50%);
-    background-color: #090a0f;
-    color: #090a0f;
-}
